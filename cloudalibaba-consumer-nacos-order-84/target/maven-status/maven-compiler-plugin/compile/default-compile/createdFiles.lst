@@ -1,0 +1,5 @@
+com\atguigu\springcloud\controller\CirleBreakerController.class
+com\atguigu\springcloud\OrderNacosApplication84.class
+com\atguigu\springcloud\service\impl\PaymentFallbackService.class
+com\atguigu\springcloud\service\PaymentService.class
+com\atguigu\springcloud\config\ApplicationContextConfig.class
